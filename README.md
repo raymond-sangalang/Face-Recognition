@@ -2,9 +2,12 @@
 
 Program:
 
-        In the program, there are multiple files linked to opencv and harrasscascade, such that these files interact in               computing data collected in a local binary-pattern histogram as the graphs threshold; depicting  the key feautures 
-        throughout shadows within the face. To include, python's library module Pillow allowed multiples files/Picture to 
-        be opened and Pickle created in deserializing and serializing the collections of data inputed in the data structure.
+        - Multiple files linked to opencv and harrasscascade, such that these files interact in           
+          computing data collected in a local binary-pattern histogram as the graphs 
+          threshold; depicting the key feautures throughout shadows within the face. 
+        
+        - Python's library module Pillow allowed multiples files/Picture to be opened and Pickle created 
+          in deserializing and serializing the collections of data inputed in the data structure.
   
   GUI- 
   
