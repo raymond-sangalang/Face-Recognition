@@ -20,7 +20,7 @@ System Requirements:
   1. import tkinter
   2. import os
   3. import cv2
-  4. import numpy as np
+  4. import numpy
   5. from PIL import Image
   6. import re
   7. import pickle
